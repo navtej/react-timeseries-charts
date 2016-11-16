@@ -47,7 +47,7 @@
     "invariant": "^2.1.1",
     "merge": "^1.2.0",
     "moment": "^2.8.4",
-    "moment-duration-format": "github:jsmreese/moment-duration-format#dev",
+    "moment-duration-format": "github:lmatiolis/moment-duration-format#add_amd_support",
     "underscore": "^1.7.0"
   },
   "devDependencies": {
